@@ -1,0 +1,14 @@
+{
+  "name": "backendlab6",
+  "version": "1.0.0",
+  "description": "backend folder for week 6 lab of frontend web dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Conia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
